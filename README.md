@@ -22,6 +22,6 @@ Special edition changes the language only, useful if you want to do researches o
 
 ## Note: 
 The OS is in korean on default, and I have no idea of how to pre-configure this thing in the iso. 
-So I did it in another way, I wrote an auto run script that will change the language to english when excuted. 
+So I did it in another way, I wrote an auto run script that will change the language to english when executed. 
 Don't be surprised if you saw the system display language unchanged when you finished installing. 
 Just simply mount the installation image in your VM and run my auto run script. 
